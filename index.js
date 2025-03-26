@@ -24,7 +24,7 @@ renderCountdown()
 function hmsCountdown(){
 const christ25 = new Date('Dec 25, 2025 00:00');
 const today = new Date();
-let deficit=christ23-today
+let deficit=christ25-today
 let hours= Math.floor(deficit/(1000*60*60))
 let minutes=Math.floor(deficit/(1000*60))
 let seconds=Math.floor(deficit/1000)
