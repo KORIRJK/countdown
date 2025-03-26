@@ -22,7 +22,7 @@ renderCountdown()
 // Stretch goals:
 // - Display hours, minutes, seconds.
 function hmsCountdown(){
-const christ23 = new Date('Dec 25, 2023 00:00');
+const christ25 = new Date('Dec 25, 202 00:00');
 const today = new Date();
 let deficit=christ23-today
 let hours= Math.floor(deficit/(1000*60*60))
