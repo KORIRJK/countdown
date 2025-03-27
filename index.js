@@ -18,7 +18,7 @@ console.log(date1);// displays current date in console
  
 renderCountdown()
 
-// Stretch goals:
+
 // - Display hours, minutes, seconds.
 function hmsCountdown(){
 const christ25 = new Date('Dec 25, 2025 00:00');
