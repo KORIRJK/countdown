@@ -4,7 +4,7 @@ const minutescountdownDisplay = document.getElementById("minutescountdown-displa
 const secondscountdownDisplay = document.getElementById("secondscountdown-display")
 function renderCountdown(){
     const christmas = 25
-    // - Get today's date (you only need the day).
+    // - Get today's date (you only  the day).
     const countdown = new Date();
 const date1 = countdown.getDate();
 
