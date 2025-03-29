@@ -9,7 +9,7 @@ function renderCountdown(){
 const date1 = countdown.getDate();
 
 console.log(date1);// displays current date in console
-    // - Calculate remaining days.
+    //  Calculate remaining days.
     let remaining=christmas-date1
     console.log(remaining)
     // - Display remaining days in countdownDisplay.
