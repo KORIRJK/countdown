@@ -35,4 +35,4 @@ console.log(minutes)
 console.log(seconds)
 }
 hmsCountdown()
-// - Add a countdown for another festival, your birthday, or Christmas 2030.
+//  Add a countdown for another festival, your birthday, or Christmas 2030.
